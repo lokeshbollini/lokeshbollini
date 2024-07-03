@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lokeshbollini
-- 👀 I’m interested in ...SQL
-- 🌱 I’m currently learning ...SQL
-- 💞️ I’m looking to collaborate on ...SQL
+- 👀 I’m interested in ...Data projects / Predictive modelling 
+- 🌱 I’m currently learning ...AI models and its applications
+- 💞️ I’m looking to collaborate on ...SQL/Python projects
 - 📫 How to reach me ...bollinilokesh@gmail.com
 
 <!---
