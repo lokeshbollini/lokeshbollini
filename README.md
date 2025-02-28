@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=500&width=500&lines=Data+Analyst;Business+Intelligence+Specialist;ETL+Developer&color=A45DBF&color=FF6F91&color=6A82FB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=500&color=FF6F91&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Specialist;ETL+Developer" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
