@@ -8,15 +8,8 @@ Overview
 
 ## Project Showcase
 
-### Risk Ranking Model
-<img src="https://github.com/lokeshbollini/proj_overview/blob/main/Risk%20ranking%20model.png" width="600" alt="Risk ranking model for property renovation opportunities"/>
-
-### AcreHub Dashboard
-<img src="https://github.com/lokeshbollini/proj_overview/blob/main/Acrehub1.png" width="600" alt="AcreHub analytics dashboard"/>
-
-### Database Visualization
-<img src="https://github.com/lokeshbollini/proj_overview/blob/main/DB5.png" width="600" alt="Database schema visualization"/>
-
+### Project Visualization
+<img src="https://github.com/lokeshbollini/proj_overview/blob/main/Gif-proj.gif" width="600" alt="Project visualization"/>
 
 
 
