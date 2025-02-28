@@ -9,7 +9,7 @@ Overview
 ## Project Showcase
 
 ### Project Visualization
-<img src="https://github.com/lokeshbollini/proj_overview/blob/main/Gif-proj.gif" width="600" alt="Project visualization"/>
+<img src="https://github.com/lokeshbollini/Gif/blob/main/Gif-proj.gif" width="600" alt="Project visualization"/>
 
 
 
