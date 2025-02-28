@@ -15,12 +15,13 @@
         </a>
     </td>
     <td align="right">
-        <a href="https://github.com/lokeshbollini/lokeshbollini.github.io/blob/5d65ac99258b4d8aeb084f88ffdde575fab85527/assets/Resume.pdf"
+        <a href="https://raw.githubusercontent.com/lokeshbollini/my-resume-repo/main/resume.pdf" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge">
         </a>
     </td>
   </tr>
 </table>
+
 
 Data Analyst & Business Intelligence Specialist with 4+ years of experience including at Amazon, transforming data into actionable insights at scale. Proven track record of reducing fraud by over 25% and improving efficiency by up to 74% through data-driven approaches.
 
