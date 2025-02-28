@@ -9,12 +9,12 @@
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td align="left">
         <a href="https://lokeshbollini.github.io/" onclick="window.open(this.href, '_blank'); return false;">
             <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge">
         </a>
     </td>
-    <td align="center">
+    <td align="right">
         <a href="https://raw.githubusercontent.com/lokeshbollini/lokeshbollini.github.io/main/assets/Resume.pdf" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge">
         </a>
