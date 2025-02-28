@@ -5,8 +5,22 @@
 </p>
 
 
-[![About](https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge)]([https://your-link.com](https://lokeshbollini.github.io/))  [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge)](https://github.com/lokeshbollini.github.io/assets/Resume.pdf)
+## About Me & Resume
 
+<table width="100%">
+  <tr>
+    <td align="left">
+        <a href="[https://your-link.com](https://lokeshbollini.github.io/)">
+            <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge">
+        </a>
+    </td>
+    <td align="right">
+        <a href="https://github.com/lokeshbollini.github.io/assets/Resume.pdf">
+            <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge">
+        </a>
+    </td>
+  </tr>
+</table>
 
 Data Analyst & Business Intelligence Specialist with 4+ years of experience including at Amazon, transforming data into actionable insights at scale. Proven track record of reducing fraud by over 25% and improving efficiency by up to 74% through data-driven approaches.
 
