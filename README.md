@@ -6,7 +6,16 @@ Overview
 📊 Specialized in fraud detection, ETL automation, and business intelligence
 🎓 MS in Management Information Systems from University at Buffalo (GPA: 3.93/4.00)
 
-<img src="Acrehub1.png" height="400" alt="ETL Pipeline"/>
+## Project Showcase
+
+### Risk Ranking Model
+<img src="https://github.com/lokeshbollini/proj_overview/blob/main/Risk%20ranking%20model.png" width="600" alt="Risk ranking model for property renovation opportunities"/>
+
+### AcreHub Dashboard
+<img src="https://github.com/lokeshbollini/proj_overview/blob/main/Acrehub1.png" width="600" alt="AcreHub analytics dashboard"/>
+
+### Database Visualization
+<img src="https://github.com/lokeshbollini/proj_overview/blob/main/DB5.png" width="600" alt="Database schema visualization"/>
 
 
 
