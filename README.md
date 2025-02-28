@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst;Business+Intelligence+Specialist;ETL+Developer)](https://git.io/typing-svg)
+
+
 Data Analyst & Business Intelligence Specialist with 4+ years of experience including at Amazon, transforming data into actionable insights at scale. Proven track record of reducing fraud by over 25% and improving efficiency by up to 74% through data-driven approaches.
 
 ### Overview
