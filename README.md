@@ -15,7 +15,7 @@
         </a>
     </td>
     <td align="right">
-        <a href="https://github.com/lokeshbollini.github.io/assets/Resume.pdf" target="_blank">
+        <a href="https://github.com/assets/Resume.pdf"target="_blank">
             <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge">
         </a>
     </td>
