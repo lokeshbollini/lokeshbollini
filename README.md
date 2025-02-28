@@ -10,7 +10,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-        <a href="[https://your-link.com](https://lokeshbollini.github.io/)">
+        <a href="https://lokeshbollini.github.io/">
             <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge">
         </a>
     </td>
