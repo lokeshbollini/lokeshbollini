@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=700&width=700&lines=Data+Analyst;BI+Specialist;ETL+Developer;Business+Analyst&color=A45DBF&color=FF6F91&color=6A82FB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=500&color=6A82FB&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Specialist;ETL+Developer" alt="Typing SVG" />
   </a>
 </p>
+
 
 Data Analyst & Business Intelligence Specialist with 4+ years of experience including at Amazon, transforming data into actionable insights at scale. Proven track record of reducing fraud by over 25% and improving efficiency by up to 74% through data-driven approaches.
 
