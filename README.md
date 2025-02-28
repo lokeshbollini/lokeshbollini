@@ -4,7 +4,8 @@
 -  I’m looking to collaborate on ...SQL/Python projects
 -  How to reach me ...bollinilokesh@gmail.com
 
--  [![GitHub Stats](https://github-readme-stats.vercel.app/api?lokeshbollini=lokeshbollini)](https://github.com/lokeshbollini/github-readme-stats)
+-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshbollini)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
