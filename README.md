@@ -6,7 +6,7 @@ Overview
 📊 Specialized in fraud detection, ETL automation, and business intelligence
 🎓 MS in Management Information Systems from University at Buffalo (GPA: 3.93/4.00)
 
-### some of my work
+### Work Samples
 <img src="https://github.com/lokeshbollini/Gif/blob/main/Gif-proj.gif" width="600" alt="Project visualization"/>
 
 
