@@ -20,6 +20,9 @@ Data Analyst & Business Intelligence Specialist with 4+ years of experience incl
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lokeshbollini&color=brightgreen)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshbollini&layout=compact&theme=radical)
+
+
  
 
 
