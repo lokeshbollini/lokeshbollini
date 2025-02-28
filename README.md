@@ -10,12 +10,12 @@
 <table width="100%">
   <tr>
     <td align="left">
-        <a href="https://lokeshbollini.github.io/">
+        <a href="https://lokeshbollini.github.io/" target="_blank">
             <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge">
         </a>
     </td>
     <td align="right">
-        <a href="https://github.com/lokeshbollini.github.io/assets/Resume.pdf">
+        <a href="https://github.com/lokeshbollini.github.io/assets/Resume.pdf" target="_blank">
             <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge">
         </a>
     </td>
