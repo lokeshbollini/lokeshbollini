@@ -7,7 +7,8 @@ Overview
 🎓 MS in Management Information Systems from University at Buffalo (GPA: 3.93/4.00)
 
 ### Work Samples
-<img src="https://github.com/lokeshbollini/Gif/blob/main/Gif-proj.gif" width="600" alt="Project visualization"/>    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://github.com/lokeshbollini/Gif/blob/main/Gif-proj.gif" width="600" alt="Project visualization"/>    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
 
 
 
