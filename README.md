@@ -10,7 +10,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-        <a href="https://lokeshbollini.github.io/" target="_blank" rel="noopener noreferrer">
+        <a href="https://lokeshbollini.github.io/" onclick="window.open(this.href, '_blank'); return false;"
             <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge">
         </a>
     </td>
